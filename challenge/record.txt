@@ -1,0 +1,11 @@
+(259431, 37531)
+3.33749604225 secondes pour fit !
+Score honorable sur la CV : 0.563319883668
+Meilleurs pamametres : {'n_estimators': 20}
+(259431, 37531)
+4.087474823 secondes pour fit !
+Score honorable sur la CV : 0.57910199449
+Meilleurs pamametres : {'n_estimators': 20}
+
+cont_KNN_5_29.02.26.txt
+continue_KNN5.txt

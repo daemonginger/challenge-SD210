@@ -1,0 +1,91 @@
+Score sur la validation : 0.7094760300959665
+Parametres : n_estimators = 2000 ; n_leaf = 50000
+
+Score sur la validation : 0.7098440905713528
+Parametres : n_estimators = 4500 ; n_leaf = 40000
+Submit à 7.12 avant de mettre les autres paramètres à 1 (donc on a probablement mieux maintenant).
+
+Score sur la validation : 0.708210742517319
+Parametres : n_estimators = 4500 ; n_leaf = 50000
+
+--- Avant : scores avec 2000 features. Après : scores avec 3000 features ---
+
+Score sur la validation : 0.7104258068139849
+Parametres : n_estimators = 4000 ; n_leaf = 40000
+
+Score sur la validation : 0.7096180649424442
+Parametres : n_estimators = 3500 ; n_leaf = 45000
+
+--- Avant : scores avec 3000 features. Après : scores avec 6000 features ---
+
+Score sur la validation : 0.7109393599341173
+Parametres : n_estimators = 4000 ; n_leaf = 40000
+
+Avec ExtraTrees :
+Score sur la validation : 0.7056864429502485
+Parametres : n_estimators = 9000 ; n_leaf = 40000
+
+Score sur la validation : 0.7107703404417136
+Parametres : n_estimators = 8000 ; n_leaf = 42000
+
+Score sur la validation : 0.7109655663794127
+Parametres : n_estimators = 8000 ; n_leaf = 38000
+
+Score sur la validation : 0.7110471696344678
+Parametres : n_estimators = 8000 ; n_leaf = 36000
+
+Score sur la validation : 0.7111287082028208
+Parametres : n_estimators = 8000 ; n_leaf = 34000
+
+Score sur la validation : 0.7112374852634012
+Parametres : n_estimators = 8000 ; n_leaf = 32000
+Sub à 0.71358 avec 7000 arbres.
+
+Score sur la validation : 0.7110436559704111
+Parametres : n_estimators = 8000 ; n_leaf = 30000
+
+--- Avant : scores avec 6000 features. Après : scores avec 11000 features ---
+
+Score sur la validation : 0.7108954298224419
+Parametres : n_estimators = 8000 ; n_leaf = 32000
+
+Score sur la validation : 0.7111201200629887
+Parametres : n_estimators = 8000 ; n_leaf = 34000
+
+Score sur la validation : 0.7111412123383961
+Parametres : n_estimators = 8000 ; n_leaf = 36000
+
+Score sur la validation : 0.711024209775557
+Parametres : n_estimators = 8000 ; n_leaf = 38000
+
+--- Avec 6000 features et l'inférence des variables manquantes ---
+
+Score sur la validation : 0.7107960470352184
+Parametres : n_estimators = 7000 ; n_leaf = 32000
+
+Score sur la validation : 0.7107242330344449
+Parametres : n_estimators = 7000 ; n_leaf = 30000
+
+Score sur la validation : 0.7107890598912683
+Parametres : n_estimators = 7000 ; n_leaf = 28000
+
+Score sur la validation : 0.7106939689687324
+Parametres : n_estimators = 7000 ; n_leaf = 40000
+
+Score sur la validation : 0.7108658469273067
+Parametres : n_estimators = 4500 ; n_leaf = 35000
+
+--- Avec les 2000 meilleures features sur 6000 ---
+
+Score sur la validation : 0.7107695499898135
+Parametres : n_estimators = 7000 ; n_leaf = 35000
+
+Score sur la validation : 0.7107687815901982
+Parametres : n_estimators = 7000 ; n_leaf = 30000
+
+Score sur la validation : 0.7107040953779473
+Parametres : n_estimators = 7000 ; n_leaf = 40000
+
+Score sur la validation : 0.689120641588745
+Parametres : n_estimators = 4500 ; n_leaf = 40000
+
